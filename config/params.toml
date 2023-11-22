@@ -1,0 +1,10 @@
+
+# Custom media render and lazy load
+[mediarack]
+    status = true      # true, false               # Enable lazy load 
+    engine = "falcon"   # lazy, falcon              # falcon is the intelegent media load with multiple type based on inline markdown 
+    [falcon]
+        anima = "default"                           # falcon template anima
+        audio = "default"                           # falcon template audio
+        video = "default"
+        image = "default"

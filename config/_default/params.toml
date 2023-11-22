@@ -1,0 +1,9 @@
+[pwasite]
+    [pwasite.assets]
+        [pwasite.assets.styles]
+            head = [ "base" ]
+            foot = [ "base" ]
+        [pwasite.assets.script]
+            head = [ "main" ]
+            foot = [ "main" ]
+
