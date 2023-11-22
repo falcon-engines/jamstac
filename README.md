@@ -1,2 +1,2 @@
 # webapps
-PWA support for hugo sites
+Falcone PWA support for hugo sites
