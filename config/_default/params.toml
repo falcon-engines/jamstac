@@ -1,9 +1,9 @@
-[pwasite]
-    [pwasite.assets]
-        [pwasite.assets.styles]
+[jamstac]
+    [jamstac.assets]
+        [jamstac.assets.styles]
             head = [ "base" ]
             foot = [ "base" ]
-        [pwasite.assets.script]
+        [jamstac.assets.script]
             head = [ "main" ]
             foot = [ "main" ]
 

@@ -1,3 +1,3 @@
-module github.com/rozard-engines/pwasite
+module github.com/falcon-engines/jamstac
 
 go 1.21.4
